@@ -1,0 +1,15 @@
+header{
+    color: blueviolet;
+    background-color: antiquewhite;
+    font-size: 30px;
+    text-align: center;
+}
+.forms{
+
+flex-direction: row;
+height: 500px;
+margin: 100px;
+background-color: rgb(181, 223, 209);
+font-size: 20px;
+
+}
